@@ -1,5 +1,4 @@
-# TMFLib
-![Cargo Build](https://github.com/rruckley/tmflib/actions/workflows/rust.yml/badge.svg)
+# Mist Schema Library
 
 # Mist Library for Rust
 ## Description
