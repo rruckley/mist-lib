@@ -3,4 +3,7 @@
 //! This library defines schema structures for us with the Mist platform, in partucular for 
 //! handling webhook notifications out of the Juniper Mist platform.
 
+
+#[warn(missing_docs)]
+
 pub mod mist;
